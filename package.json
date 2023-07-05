@@ -1,0 +1,19 @@
+{
+  "name": "virtusync",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.3.4",
+    "vite-plugin-vue2": "^2.0.3",
+    "vue": "^2.7.14"
+  }
+}
